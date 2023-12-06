@@ -6,4 +6,4 @@ This app let You add your items in your card
 
 # Author 
 
-Rahul Porel
+Rahul Bidhan Porel
