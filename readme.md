@@ -1,8 +1,6 @@
+# Add To Wish List 
 
-# Add To Card
-
-This app let You add your items in your card 
-
+This Website let You add your wish list items in your card and also its connected to database so your wish list will save in your db 
 
 # Author 
 
