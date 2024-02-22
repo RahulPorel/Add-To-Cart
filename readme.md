@@ -3,6 +3,7 @@
 # Features    
 
   - Add your wish item and it will display it
+  - Double click on your wish list item to delete it.
   - Wish list item will be saved to google cloudfare database   
 
 # Live Demo 👁️
